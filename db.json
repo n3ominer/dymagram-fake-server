@@ -17,18 +17,6 @@
                 }
             ]
         },
-        {
-            "user_id": "user_2",
-            "username": "jane_smith",
-            "profile_picture": "https://example.com/profiles/jane_smith.jpg",
-            "story_content": [
-                {
-                    "type": "image",
-                    "url": "https://example.com/stories/jane_smith/story1.jpg",
-                    "timestamp": "2023-10-01T15:00:00Z"
-                }
-            ]
-        }
     ],
     "posts": [
         {
@@ -50,25 +38,6 @@
             "shares": 10,
             "timestamp": "2023-10-01T12:00:00Z"
         },
-        {
-            "post_id": "post_2",
-            "user_id": "user_2",
-            "username": "jane_smith",
-            "profile_picture": "https://example.com/profiles/jane_smith.jpg",
-            "content": "https://example.com/posts/jane_smith/post1.jpg",
-            "caption": "Loving this place!",
-            "likes": 200,
-            "comments": [
-                {
-                    "user_id": "user_1",
-                    "username": "john_doe",
-                    "comment": "Looks great!",
-                    "timestamp": "2023-10-01T17:00:00Z"
-                }
-            ],
-            "shares": 15,
-            "timestamp": "2023-10-01T13:00:00Z"
-        }
     ],
     "messages": [
         {
@@ -88,51 +57,6 @@
                     "message": "I'm good, thanks! How about you?",
                     "timestamp": "2023-10-01T18:05:00Z"
                 },
-                {
-                    "sender_id": "user_1",
-                    "message": "I'm doing well, just busy with work.",
-                    "timestamp": "2023-10-01T18:10:00Z"
-                },
-                {
-                    "sender_id": "user_2",
-                    "message": "I understand. Any plans for the weekend?",
-                    "timestamp": "2023-10-01T18:15:00Z"
-                },
-                {
-                    "sender_id": "user_1",
-                    "message": "Not yet, maybe just relax and watch some movies.",
-                    "timestamp": "2023-10-01T18:20:00Z"
-                },
-                {
-                    "sender_id": "user_2",
-                    "message": "That sounds nice. Any movie recommendations?",
-                    "timestamp": "2023-10-01T18:25:00Z"
-                },
-                {
-                    "sender_id": "user_1",
-                    "message": "I heard the new sci-fi movie is really good.",
-                    "timestamp": "2023-10-01T18:30:00Z"
-                },
-                {
-                    "sender_id": "user_2",
-                    "message": "Oh, I love sci-fi! I'll check it out.",
-                    "timestamp": "2023-10-01T18:35:00Z"
-                },
-                {
-                    "sender_id": "user_1",
-                    "message": "Great! Let me know what you think.",
-                    "timestamp": "2023-10-01T18:40:00Z"
-                },
-                {
-                    "sender_id": "user_2",
-                    "message": "Will do! Have a good evening!",
-                    "timestamp": "2023-10-01T18:45:00Z"
-                },
-                {
-                    "sender_id": "user_1",
-                    "message": "You too! Talk to you later.",
-                    "timestamp": "2023-10-01T18:50:00Z"
-                }
             ]
         },
         {
@@ -193,32 +117,5 @@
             "following": 2,
             "posts": 2
         },
-        {
-            "id": 3,
-            "first_name": "Gisella",
-            "last_name": "Normavell",
-            "email": "gnormavell2@cornell.edu",
-            "followers": 3,
-            "following": 3,
-            "posts": 3
-        },
-        {
-            "id": 4,
-            "first_name": "Emmie",
-            "last_name": "Petkov",
-            "email": "epetkov3@woothemes.com",
-            "followers": 4,
-            "following": 4,
-            "posts": 4
-        },
-        {
-            "id": 5,
-            "first_name": "Jamil",
-            "last_name": "Howton",
-            "email": "jhowton4@etsy.com",
-            "followers": 5,
-            "following": 5,
-            "posts": 5
-        }
     ]
 }
