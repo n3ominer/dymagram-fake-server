@@ -172,6 +172,63 @@
                     "timestamp": "2023-10-03T09:10:00Z"
                 }
             ]
+        },
+        {
+            "conversation_id": "conv_4",
+            "participants": [
+                "user_7",
+                "user_8"
+            ],
+            "messages": [
+                {
+                    "sender_id": "user_7",
+                    "message": "Are we still on for lunch?",
+                    "timestamp": "2023-10-04T12:00:00Z"
+                },
+                {
+                    "sender_id": "user_8",
+                    "message": "Yes, see you at 1 PM.",
+                    "timestamp": "2023-10-04T12:05:00Z"
+                }
+            ]
+        },
+        {
+            "conversation_id": "conv_5",
+            "participants": [
+                "user_9",
+                "user_10"
+            ],
+            "messages": [
+                {
+                    "sender_id": "user_9",
+                    "message": "Happy Birthday!",
+                    "timestamp": "2023-10-05T08:00:00Z"
+                },
+                {
+                    "sender_id": "user_10",
+                    "message": "Thank you!",
+                    "timestamp": "2023-10-05T08:05:00Z"
+                }
+            ]
+        },
+        {
+            "conversation_id": "conv_6",
+            "participants": [
+                "user_11",
+                "user_12"
+            ],
+            "messages": [
+                {
+                    "sender_id": "user_11",
+                    "message": "Did you finish the project?",
+                    "timestamp": "2023-10-06T14:00:00Z"
+                },
+                {
+                    "sender_id": "user_12",
+                    "message": "Almost done, just a few more tweaks.",
+                    "timestamp": "2023-10-06T14:10:00Z"
+                }
+            ]
         }
     ],
     "followings": [
@@ -219,6 +276,51 @@
             "followers": 5,
             "following": 5,
             "posts": 5
+        },
+        {
+            "id": 6,
+            "first_name": "Phil",
+            "last_name": "Albone",
+            "email": "palbone5@oracle.com",
+            "followers": 6,
+            "following": 6,
+            "posts": 6
+        },
+        {
+            "id": 7,
+            "first_name": "Finlay",
+            "last_name": "Rodenborch",
+            "email": "frodenborch6@technorati.com",
+            "followers": 7,
+            "following": 7,
+            "posts": 7
+        },
+        {
+            "id": 8,
+            "first_name": "Pavla",
+            "last_name": "Cargill",
+            "email": "pcargill7@chronoengine.com",
+            "followers": 8,
+            "following": 8,
+            "posts": 8
+        },
+        {
+            "id": 9,
+            "first_name": "Chic",
+            "last_name": "Pudan",
+            "email": "cpudan8@over-blog.com",
+            "followers": 9,
+            "following": 9,
+            "posts": 9
+        },
+        {
+            "id": 10,
+            "first_name": "Brennan",
+            "last_name": "Jarry",
+            "email": "bjarry9@dyndns.org",
+            "followers": 10,
+            "following": 10,
+            "posts": 10
         }
     ]
 }
