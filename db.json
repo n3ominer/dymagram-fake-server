@@ -191,44 +191,6 @@
                     "timestamp": "2023-10-04T12:05:00Z"
                 }
             ]
-        },
-        {
-            "conversation_id": "conv_5",
-            "participants": [
-                "user_9",
-                "user_10"
-            ],
-            "messages": [
-                {
-                    "sender_id": "user_9",
-                    "message": "Happy Birthday!",
-                    "timestamp": "2023-10-05T08:00:00Z"
-                },
-                {
-                    "sender_id": "user_10",
-                    "message": "Thank you!",
-                    "timestamp": "2023-10-05T08:05:00Z"
-                }
-            ]
-        },
-        {
-            "conversation_id": "conv_6",
-            "participants": [
-                "user_11",
-                "user_12"
-            ],
-            "messages": [
-                {
-                    "sender_id": "user_11",
-                    "message": "Did you finish the project?",
-                    "timestamp": "2023-10-06T14:00:00Z"
-                },
-                {
-                    "sender_id": "user_12",
-                    "message": "Almost done, just a few more tweaks.",
-                    "timestamp": "2023-10-06T14:10:00Z"
-                }
-            ]
         }
     ],
     "followings": [
