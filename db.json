@@ -68,6 +68,25 @@
             ],
             "shares": 15,
             "timestamp": "2023-10-01T13:00:00Z"
+        },
+        {
+            "post_id": "post_3",
+            "user_id": "user_3",
+            "username": "arthur_01",
+            "profile_picture": "https://example.com/profiles/jane_smith.jpg",
+            "content": "https://example.com/posts/jane_smith/post1.jpg",
+            "caption": "Loving this place!",
+            "likes": 200,
+            "comments": [
+                {
+                    "user_id": "user_1",
+                    "username": "john_doe",
+                    "comment": "Looks great!",
+                    "timestamp": "2023-10-01T17:00:00Z"
+                }
+            ],
+            "shares": 15,
+            "timestamp": "2023-10-01T13:00:00Z"
         }
     ],
     "messages": [
