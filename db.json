@@ -294,33 +294,6 @@
             "followers": 7,
             "following": 7,
             "posts": 7
-        },
-        {
-            "id": 8,
-            "first_name": "Pavla",
-            "last_name": "Cargill",
-            "email": "pcargill7@chronoengine.com",
-            "followers": 8,
-            "following": 8,
-            "posts": 8
-        },
-        {
-            "id": 9,
-            "first_name": "Chic",
-            "last_name": "Pudan",
-            "email": "cpudan8@over-blog.com",
-            "followers": 9,
-            "following": 9,
-            "posts": 9
-        },
-        {
-            "id": 10,
-            "first_name": "Brennan",
-            "last_name": "Jarry",
-            "email": "bjarry9@dyndns.org",
-            "followers": 10,
-            "following": 10,
-            "posts": 10
         }
     ]
 }
