@@ -7,12 +7,22 @@
             "story_content": [
                 {
                     "type": "image",
-                    "url": "https://example.com/stories/john_doe/story1.jpg",
+                    "url": "https://robohash.org/story_1",
                     "timestamp": "2023-10-01T12:00:00Z"
                 },
                 {
-                    "type": "video",
-                    "url": "https://example.com/stories/john_doe/story2.mp4",
+                    "type": "image",
+                    "url": "https://robohash.org/story_2",
+                    "timestamp": "2023-10-01T14:00:00Z"
+                }
+                {
+                    "type": "image",
+                    "url": "https://robohash.org/story_3",
+                    "timestamp": "2023-10-01T12:00:00Z"
+                },
+                {
+                    "type": "image",
+                    "url": "https://robohash.org/story_4",
                     "timestamp": "2023-10-01T14:00:00Z"
                 }
             ]
@@ -24,9 +34,41 @@
             "story_content": [
                 {
                     "type": "image",
-                    "url": "https://example.com/stories/jane_smith/story1.jpg",
-                    "timestamp": "2023-10-01T15:00:00Z"
+                    "url": "https://robohash.org/story_5",
+                    "timestamp": "2023-10-01T12:00:00Z"
+                },
+                {
+                    "type": "image",
+                    "url": "https://robohash.org/story_6",
+                    "timestamp": "2023-10-01T14:00:00Z"
                 }
+                {
+                    "type": "image",
+                    "url": "https://robohash.org/story_7",
+                    "timestamp": "2023-10-01T12:00:00Z"
+                },
+            ]
+        },
+        {
+            "user_id": "user_3",
+            "username": "jane_smith",
+            "profile_picture": "https://example.com/profiles/jane_smith.jpg",
+            "story_content": [
+                {
+                    "type": "image",
+                    "url": "https://robohash.org/story_8",
+                    "timestamp": "2023-10-01T12:00:00Z"
+                },
+                {
+                    "type": "image",
+                    "url": "https://robohash.org/story_9",
+                    "timestamp": "2023-10-01T14:00:00Z"
+                }
+                {
+                    "type": "image",
+                    "url": "https://robohash.org/story_10",
+                    "timestamp": "2023-10-01T12:00:00Z"
+                },
             ]
         }
     ],
@@ -117,41 +159,6 @@
                     "message": "I understand. Any plans for the weekend?",
                     "timestamp": "2023-10-01T18:15:00Z"
                 },
-                {
-                    "sender_id": "user_1",
-                    "message": "Not yet, maybe just relax and watch some movies.",
-                    "timestamp": "2023-10-01T18:20:00Z"
-                },
-                {
-                    "sender_id": "user_2",
-                    "message": "That sounds nice. Any movie recommendations?",
-                    "timestamp": "2023-10-01T18:25:00Z"
-                },
-                {
-                    "sender_id": "user_1",
-                    "message": "I heard the new sci-fi movie is really good.",
-                    "timestamp": "2023-10-01T18:30:00Z"
-                },
-                {
-                    "sender_id": "user_2",
-                    "message": "Oh, I love sci-fi! I'll check it out.",
-                    "timestamp": "2023-10-01T18:35:00Z"
-                },
-                {
-                    "sender_id": "user_1",
-                    "message": "Great! Let me know what you think.",
-                    "timestamp": "2023-10-01T18:40:00Z"
-                },
-                {
-                    "sender_id": "user_2",
-                    "message": "Will do! Have a good evening!",
-                    "timestamp": "2023-10-01T18:45:00Z"
-                },
-                {
-                    "sender_id": "user_1",
-                    "message": "You too! Talk to you later.",
-                    "timestamp": "2023-10-01T18:50:00Z"
-                }
             ]
         },
         {
@@ -249,32 +256,5 @@
             "following": 4,
             "posts": 4
         },
-        {
-            "id": 5,
-            "first_name": "Jamil",
-            "last_name": "Howton",
-            "email": "jhowton4@etsy.com",
-            "followers": 5,
-            "following": 5,
-            "posts": 5
-        },
-        {
-            "id": 6,
-            "first_name": "Phil",
-            "last_name": "Albone",
-            "email": "palbone5@oracle.com",
-            "followers": 6,
-            "following": 6,
-            "posts": 6
-        },
-        {
-            "id": 7,
-            "first_name": "Finlay",
-            "last_name": "Rodenborch",
-            "email": "frodenborch6@technorati.com",
-            "followers": 7,
-            "following": 7,
-            "posts": 7
-        }
     ]
 }
