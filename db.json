@@ -8,21 +8,25 @@
             {
                "type":"image",
                "url":"https://robohash.org/story_1",
+               "duration": 5,
                "timestamp":"2023-10-01T12:00:00Z"
             },
             {
                "type":"image",
                "url":"https://robohash.org/story_2",
+               "duration": 7,
                "timestamp":"2023-10-01T14:00:00Z"
             },
             {
                "type":"image",
                "url":"https://robohash.org/story_3",
+               "duration": 10,
                "timestamp":"2023-10-01T12:00:00Z"
             },
             {
                "type":"image",
                "url":"https://robohash.org/story_4",
+               "duration": 15,
                "timestamp":"2023-10-01T14:00:00Z"
             }
          ]
@@ -31,20 +35,24 @@
          "user_id":"user_2",
          "username":"jane_smith",
          "profile_picture":"https://example.com/profiles/jane_smith.jpg",
+         "duration": 10,
          "story_content":[
             {
                "type":"image",
                "url":"https://robohash.org/story_5",
+               "duration": 20,
                "timestamp":"2023-10-01T12:00:00Z"
             },
             {
                "type":"image",
                "url":"https://robohash.org/story_6",
+               "duration": 10,
                "timestamp":"2023-10-01T14:00:00Z"
             },
             {
                "type":"image",
                "url":"https://robohash.org/story_7",
+               "duration": 10,
                "timestamp":"2023-10-01T12:00:00Z"
             }
          ]
@@ -57,16 +65,19 @@
             {
                "type":"image",
                "url":"https://robohash.org/story_8",
+               "duration": 10,
                "timestamp":"2023-10-01T12:00:00Z"
             },
             {
                "type":"image",
                "url":"https://robohash.org/story_9",
+               "duration": 10,
                "timestamp":"2023-10-01T14:00:00Z"
             },
             {
                "type":"image",
                "url":"https://robohash.org/story_10",
+               "duration": 10,
                "timestamp":"2023-10-01T12:00:00Z"
             }
          ]
