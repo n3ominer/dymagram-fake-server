@@ -14,7 +14,7 @@
                     "type": "image",
                     "url": "https://robohash.org/story_2",
                     "timestamp": "2023-10-01T14:00:00Z"
-                }
+                },
                 {
                     "type": "image",
                     "url": "https://robohash.org/story_3",
@@ -41,12 +41,12 @@
                     "type": "image",
                     "url": "https://robohash.org/story_6",
                     "timestamp": "2023-10-01T14:00:00Z"
-                }
+                },
                 {
                     "type": "image",
                     "url": "https://robohash.org/story_7",
                     "timestamp": "2023-10-01T12:00:00Z"
-                },
+                }
             ]
         },
         {
@@ -63,12 +63,12 @@
                     "type": "image",
                     "url": "https://robohash.org/story_9",
                     "timestamp": "2023-10-01T14:00:00Z"
-                }
+                },
                 {
                     "type": "image",
                     "url": "https://robohash.org/story_10",
                     "timestamp": "2023-10-01T12:00:00Z"
-                },
+                }
             ]
         }
     ],
